@@ -6,7 +6,7 @@ using System.Configuration;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Web;
+
 using CefSharp;
 using CefSharp.WinForms;
 using SharpBrowser.Controls.BrowserTabStrip;
