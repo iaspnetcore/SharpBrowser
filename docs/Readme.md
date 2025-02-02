@@ -2,6 +2,8 @@
 
 - WebView2
 
+Microsoft Edge WebView2 Runtime
+
 https://learn.microsoft.com/en-us/answers/questions/247173/how-to-use-proxy-for-current-version-of-webview2-(
 
 - ChromeDriver
