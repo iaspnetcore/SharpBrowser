@@ -12,7 +12,26 @@ https://www.webdevtutor.net/blog/c-sharp-web-browser-use-proxy
 
 - DotNetBrowser
 
+Display modern web pages in WPF and WinForms.
+
 https://teamdev.com/dotnetbrowser/docs/guides/installation/nuget.html
+
+- CefSharp
+CefSharp lets you embed Chromium in .NET apps.
+
+https://github.com/cefsharp/CefSharp/
+
+## open source C# web browser
+
+- SharpBrowser
+
+on the high-performance CefSharp.
+
+https://github.com/sharpbrowser/SharpBrowser
+
+
+
+
 
 ## C# Headless Browsers
 
