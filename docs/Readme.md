@@ -52,6 +52,13 @@ Selenium
 
 Playwright
 
+- Playwright
+
+Microsoft.Playwright
+
+https://www.zenrows.com/blog/playwright-c-sharp#install-playwright
+
+
 
 ## HTTP(S) proxy server written in C#
 
