@@ -42,7 +42,7 @@ https://github.com/lightbody/browsermob-proxy
 
 HTTP(S) proxy server written in C#
 
-Useful links
+**Useful links**
 
 C# Headless Browsers
 
