@@ -1,7 +1,5 @@
 ## Creating a browser  written in C#
 
-C# Headless Browsers
-
 - WebView2
 
 https://learn.microsoft.com/en-us/answers/questions/247173/how-to-use-proxy-for-current-version-of-webview2-(
@@ -13,6 +11,16 @@ https://www.webdevtutor.net/blog/c-sharp-web-browser-use-proxy
 - DotNetBrowser
 
 https://teamdev.com/dotnetbrowser/docs/guides/installation/nuget.html
+
+## C# Headless Browsers
+
+ZenRows
+
+PuppeteerSharp
+
+Selenium
+
+Playwright
 
 
 ## HTTP(S) proxy server written in C#
@@ -30,9 +38,15 @@ browsermob-proxy
 https://github.com/lightbody/browsermob-proxy
 
 
-search key
+## search key
 
 HTTP(S) proxy server written in C#
+
+Useful links
+
+C# Headless Browsers
+
+https://www.zenrows.com/blog/c-sharp-headless-browser#selenium
 
 
 
