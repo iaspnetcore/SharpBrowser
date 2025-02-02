@@ -58,6 +58,11 @@ browsermob-proxy
 
 https://github.com/lightbody/browsermob-proxy
 
+## server - client
+- gRPC-Web
+
+https://devblogs.microsoft.com/dotnet/grpc-web-experiment/
+
 
 ## search key
 
